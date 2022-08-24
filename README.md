@@ -37,6 +37,6 @@ O site é composto por 4 páginas diferentes:
 
 5. Execute a aplicação em modo de desenvolvimento
 
-`$ yarn start`
+`$ yarn dev`
 
 6. A aplicação será aberta na porta: 3000 - acesse http://localhost:3000
